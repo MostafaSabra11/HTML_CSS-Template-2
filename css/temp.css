@@ -102,7 +102,7 @@ header .container .links ul li a{
     display: block;
     margin: 5px;
     transition: .3s;
-    color: white;
+    color: grey;
 }
 header .container .links ul li:not(:last-child) a{
     border-bottom: 1px solid #ddd;
